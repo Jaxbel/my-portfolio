@@ -1,0 +1,12 @@
+# Ignorar archivos temporales generados
+temp.log
+*.tmp
+
+# Ignorar la carpeta de dependencias node_modules
+node_modules/
+
+# Ignorar archivos de compilación o construcción
+build/
+dist/
+*.exe
+node_modules
